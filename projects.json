@@ -197,6 +197,9 @@
             "https://github.com/ceph/simplegpt.git", 
             "https://github.com/ceph/takora.git", 
             "https://github.com/ceph/teuthology.git"
+        ],
+        "jenkins": [
+            "https://jenkins.ceph.com"
         ], 
         "supybot": [
             "irc://irc.oftc.net/ceph /home/bitergia/irc/percevalbot/logs/ChannelLogger/oftc/#ceph", 
