@@ -99,7 +99,6 @@
             "https://github.com/ceph/teuthology.git",
             "https://github.com/ceph/ansible-ceph-docker-common.git",
             "https://github.com/ceph/ceph-brag.git",
-            "https://github.com/ceph/ceph-client.git",
             "https://github.com/ceph/ceph-old.git",
             "https://github.com/ceph/community.git"
         ],
@@ -202,7 +201,6 @@
             "https://github.com/ceph/teuthology",
             "https://github.com/ceph/ansible-ceph-docker-common",
             "https://github.com/ceph/ceph-brag",
-            "https://github.com/ceph/ceph-client",
             "https://github.com/ceph/ceph-old",
             "https://github.com/ceph/community"
         ],
